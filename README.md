@@ -2,7 +2,7 @@
 ### Overview
 This Jupyter Notebook provides an in-depth tutorial on implementing Linear Regression using `scikit-learn`. Linear regression is a fundamental supervised learning algorithm used for modeling relationships between dependent and independent variables. The notebook covers model training, evaluation, and visualization of regression results.
 ### File Information
-- **Filename:** linear_regression_using_sklearn.ipynb
+- **Filename:** [linear_regression_using_sklearn.ipynb](https://github.com/tamunoWoks/linear_regression_practice_with_scikit_learn/blob/main/linear_regression_using_sklearn.ipynb)
 - **Format:** Jupyter Notebook (.ipynb)
 - **Libraries Used:**
   - `numpy`
