@@ -10,3 +10,10 @@ This Jupyter Notebook provides an in-depth tutorial on implementing Linear Regre
   - `matplotlib`
   - `seaborn`
   - `scikit-learn`
+### Objectives
+This notebook aims to:
+- Explain the theory behind linear regression.
+- Load and preprocess a dataset for regression tasks.
+- Implement simple and multiple linear regression using `scikit-learn`.
+- Evaluate model performance using metrics like MSE, RMSE, and R² score.
+- Visualize regression results using scatter plots and residual plots.
